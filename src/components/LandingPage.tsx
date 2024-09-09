@@ -1,3 +1,4 @@
+//inialize react 
 import React from 'react';
 
 interface Folder {
